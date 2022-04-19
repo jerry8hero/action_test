@@ -1,7 +1,12 @@
 name: "test1"
 on:
   push:
-    
+    branches:
+      - "main"
 jobs:
   build:
-  runs-on: ub
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v2
+        name: "push message"
+        run: bash ./test1.sh
