@@ -1,0 +1,16 @@
+name: run x-cmd
+on:
+  push:
+  # workflow_dispatch:
+
+jobs:
+  bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: install x-cmd && setup ssh publish
+        uses: x-cmd/action@main
+        
+        with:
+          shellcode: x install ls
+          entrypoint: lib/a.sh
+          
