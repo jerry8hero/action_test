@@ -1,4 +1,4 @@
-name: "run x-cmd"
+name: "run_cmd"
 on:
   push:
   # workflow_dispatch:
