@@ -8,14 +8,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-  DSFDFG:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - name: "push message"
-        run: echo ${{ github.job.name }}  ${{ github.job }} ${{ env.GITHUB_RUN_ID }}    
-  fff:
-    runs-on: ubuntu-latest
     steps:
       - name: Dump GitHub context
         id: github_context_step
