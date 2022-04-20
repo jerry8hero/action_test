@@ -12,4 +12,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: "push message"
-        run: echo ${{ github.job.name }}       
+        run: echo ${{ github.job.name }}  ${{ github.job }} ${{ env.GITHUB_RUN_ID }}    
