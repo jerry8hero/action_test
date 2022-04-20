@@ -8,8 +8,25 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
+  DSFDFG:
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - name: "push message"
         run: echo ${{ github.job.name }}  ${{ github.job }} ${{ env.GITHUB_RUN_ID }}    
+  fff:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dump GitHub context
+        id: github_context_step
+        run: echo '${{ toJSON(github) }}'
+      - name: Dump job context
+        run: echo '${{ toJSON(job) }}'
+      - name: Dump steps context
+        run: echo '${{ toJSON(steps) }}'
+      - name: Dump runner context
+        run: echo '${{ toJSON(runner) }}'
+      - name: Dump strategy context
+        run: echo '${{ toJSON(strategy) }}'
+      - name: Dump matrix context
+        run: echo '${{ toJSON(matrix) }}'
