@@ -4,6 +4,6 @@ curl 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=0837deb9-ddce-4477-88
    {
         "msgtype": "text",
         "text": {
-            "content": " 今天是2022年4月19日 "
+            "content": " 今天是2022年4月20日 "
         }
    }'
