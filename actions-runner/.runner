@@ -1,9 +1,0 @@
-﻿{
-  "agentId": 23,
-  "agentName": "Bigrice",
-  "poolId": 1,
-  "poolName": "Default",
-  "serverUrl": "https://pipelines.actions.githubusercontent.com/mQ9csQFxXtUrmwyE8dljESGjJbXaDQCNJ8R7pzCeO9WD1osUea",
-  "gitHubUrl": "https://github.com/jerry8hero/action_test",
-  "workFolder": "_work"
-}
