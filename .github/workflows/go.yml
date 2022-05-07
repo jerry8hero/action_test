@@ -1,7 +1,7 @@
 name: "run_cmd"
 on:
-  push:
-  # workflow_dispatch:
+  #push:
+  workflow_dispatch:
 
 jobs:
   bot:
@@ -13,4 +13,3 @@ jobs:
         with:
           shellcode: x install ls
           entrypoint: lib/a.sh
-          
