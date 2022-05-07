@@ -3,7 +3,7 @@ on: push
 
 jobs:
   build:
-    runs-on: macos-latest
+    runs-on: self-hosted
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
