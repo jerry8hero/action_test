@@ -1,5 +1,5 @@
 name: Build on Windows
-on: push
+#on: push
 jobs:
   build:
     runs-on: self-hosted
