@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "今天是2022年5月12日"
+    "test": "tsc test.ts"
   },
   "repository": {
     "type": "git",
