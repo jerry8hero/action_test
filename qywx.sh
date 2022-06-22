@@ -4,10 +4,10 @@ curl 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=0837deb9-ddce-4477-88
 {
     "msgtype": "markdown",
     "markdown": {
-        "content": "实时新增用户反馈<font color=\"warning\">132例</font>，请相关同事注意。\n
-         >类型:<font color=\"comment\">用户反馈</font>
-         >普通用户反馈:<font color=\"comment\">117例</font>
-         >VIP用户反馈:<font color=\"comment\">15例</font>"
+        "content": "MD文档颜色测试<font color=\"warning\">只支持3种内置颜色</font>，：绿色、灰色、橙红色。\n
+         >绿色:<font color=\"info\">从此你在我心里只剩绿色</font>
+         >灰色:<font color=\"comment\">你离开时我心里的彩虹就变成灰色</font>
+         >橙红色:<font color=\"warning\">那鲜明的痛是橙红色</font>"
     }
 }
    }'
