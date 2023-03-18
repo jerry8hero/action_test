@@ -15,6 +15,6 @@ jobs:
           dst: 'gitee/jerry8hero'
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
           dst_token:  ${{ secrets.GITEE_TOKEN }}
-          static_list: "finance"
+          static_list: "action_test"
           force_update: true
           debug: true
