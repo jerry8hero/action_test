@@ -2,7 +2,7 @@ name: syncToGitee
 on:
   push:
     branches:
-      - master
+      - main
       # gh-pages
 jobs:
   repo-sync:
