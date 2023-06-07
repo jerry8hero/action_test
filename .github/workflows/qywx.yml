@@ -24,7 +24,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: 'push message'
-        run: bash ./qywx.sh
+        run: bash ./qywx1.sh
 
     
     
