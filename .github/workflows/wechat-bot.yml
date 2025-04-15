@@ -21,4 +21,4 @@ jobs:
             }
           }'
         env:
-          WX_WEBHOOK: ${{ https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=eb2eefa5-081f-4d51-a761-9aa057ad024aets.WX_WEBHOOK }}
+          WX_WEBHOOK: ${{https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=eb2eefa5-081f-4d51-a761-9aa057ad024a}}
