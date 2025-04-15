@@ -1,0 +1,23 @@
+name: WeChat Bot Notification
+
+on:
+  schedule:
+    - cron: '30 13 * * *'  # 每天 UTC 13:00，即北京时间 21:00
+  # workflow_dispatch:       # 手动触发也可以用
+
+jobs:
+  send-message:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send WeChat Message
+        run: |
+          curl -X POST "$WX_WEBHOOK" \
+          -H 'Content-Type: application/json' \
+          -d '{
+            "msgtype": "text",
+            "text": {
+              "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～"
+            }
+          }'
+        env:
+          WX_WEBHOOK: ${{ https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=eb2eefa5-081f-4d51-a761-9aa057ad024aets.WX_WEBHOOK }}
