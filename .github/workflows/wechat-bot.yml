@@ -20,7 +20,7 @@ jobs:
             {
                 "msgtype": "text",
                 "text": {
-                    "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ \n 👉 [【📥 bluetui - Linux 终端下的蓝牙管理神器】](https://www.bilibili.com/video/BV1AvoGYoErz/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)" 
+                    "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ \n 👉 [【📥 oterm - 在终端玩转 Ollama，你的专属 AI 助理！】](https://www.bilibili.com/video/BV1NhoGY8ERv/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)" 
                 }
             }'
 
