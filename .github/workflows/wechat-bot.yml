@@ -20,7 +20,7 @@ jobs:
             {
                 "msgtype": "text",
                 "text": {
-                    "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ \n 👉 [📥 gotz - 终端里的时区大师，告别跨时区沟通烦恼！](https://www.bilibili.com/video/BV1x8oGYcERD/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)" 
+                    "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ \n 👉 [【📥 sttr - 你的终端字符串变形金刚，效率神器！】](https://www.bilibili.com/video/BV1qB5jzaEdM/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)" 
                 }
             }'
 
