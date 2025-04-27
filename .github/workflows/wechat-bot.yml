@@ -20,7 +20,7 @@ jobs:
             {
                 "msgtype": "text",
                 "text": {
-                    "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ \n 👉 [【📥 stew - 告别繁琐，极速安装编译型二进制文件！】](https://www.bilibili.com/video/BV1DeLWz3ENZ/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)" 
+                    "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ \n 👉 [【📥 Pipeform - Terraform 运行状态可视化利器，告别黑盒操作！】](https://www.bilibili.com/video/BV1rQLWzfEiU/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)" 
                 }
             }'
 
