@@ -1,9 +1,9 @@
 name: WeChat Bot Notification
 
 on:
-  # push:
-  #   branches:
-  #     - main
+  push:
+    branches:
+      - main
   schedule:
     - cron: '15 13 * * *'  # 每天 UTC 13:30，即北京时间 21:30
   workflow_dispatch:       # 手动触发也可以用
@@ -22,7 +22,7 @@ jobs:
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
                     \n1️⃣ 👉 [【📥 Pocker - Docker 运维利器，告别繁琐命令，拥抱高效管理！】](https://www.bilibili.com/video/BV127LCz9EgG/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410) 
-                    \n2️⃣ 👉 []()"
+                    \n2️⃣ 👉 [【📥 dstask - 终端效率利器，用 Git 同步你的 TODO 清单！】](https://www.bilibili.com/video/BV1ktL1zRERo/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
 
