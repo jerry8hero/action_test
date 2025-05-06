@@ -20,7 +20,7 @@ jobs:
             {
                 "msgtype": "text",
                 "text": {
-                    "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ \n 👉 [【📥 Tuistash - Logstash 实时监控，告别图形界面，高效便捷！】](https://www.bilibili.com/video/BV1FpGXzaEcq/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410) 
+                    "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ \n 👉 [【📥 Tuistash - Logstash 实时监控，告别图形界面，高效便捷！】](https://www.bilibili.com/video/BV1FpGXzaEcq/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
 
