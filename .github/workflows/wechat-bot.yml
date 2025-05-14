@@ -21,8 +21,8 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【📥 pkgtop：你的 Linux 终端仪表盘，包管理从未如此简单！】](https://www.bilibili.com/video/BV1FxEjzLEya/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)
-                    \n2️⃣ 👉 [【📥 Hoard：你的终极命令行宝库，告别记忆负担！】](https://www.bilibili.com/video/BV1cWEjz2EER/?share_source=copy_web&vd_source=41bfad8ee799621c77ba4eeb24215145)"
+                    \n1️⃣ 👉 [【📥 TextQL：像操作数据库一样玩转 CSV/TSV 文件！】](https://www.bilibili.com/video/BV1o7EJz7ESL/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)
+                    \n2️⃣ 👉 []()"
                 }
             }'
 
