@@ -21,7 +21,7 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【📥 Typeinc - 提升打字速度的秘密武器，基 于Python & ncurses，模拟真实键盘，难度分级清晰，实时评分】](https://www.bilibili.com/video/BV1NUNjzpEhF/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【📥 Rexi - 终端正则表达式调试利器，可视化呈现匹配效果，管道输入，代码调试，学习正则表达式好帮手】](https://www.bilibili.com/video/BV1ZWNtzMEAP/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
 
