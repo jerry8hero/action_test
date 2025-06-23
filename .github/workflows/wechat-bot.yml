@@ -21,7 +21,7 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【📥 prs - 告别低效网页操作，无需离开终端，轻松掌握 GitHub Pull Requests 动态】](https://www.bilibili.com/video/BV1w5NtzLEWc/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【📥 Koji - 告别混乱 Git 提交，拥抱 Conventional Commits 规范，提升团队协作效率，打造清晰易懂的提交历史】](https://www.bilibili.com/video/BV1qSKxziEwX/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
 
