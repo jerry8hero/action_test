@@ -21,8 +21,8 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【📥 git-split-diffs - 终端 GitHub 风格代码对比工具，支持并排差异、语法高亮和自定义主题，提升代码审查效率】]
-                    (https://www.bilibili.com/video/BV1rtKJz4E9a/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【📥 gtop - 终端系统监控利器，实时掌握 CPU、内存、进程状态，轻量高效运维必备】]
+                    (https://www.bilibili.com/video/BV1NDKozTEVD/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
 
