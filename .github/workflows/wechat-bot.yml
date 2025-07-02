@@ -21,8 +21,8 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【📥 Amp - Rust 编写的极简终端编辑器，Vim 风格，零配置，键盘驱动，适用于服务器维护和远程开发】]
-                    (https://www.bilibili.com/video/BV1MQ3NzVEfE/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【📥 kanban-tui - 开源免费的终端任务管理器，支持自定义看板和数据可视化，助你高效管理个人和团队项目】]
+                    ( https://www.bilibili.com/video/BV1K23HzDEPp/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
 
