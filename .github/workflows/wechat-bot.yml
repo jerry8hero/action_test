@@ -21,8 +21,8 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【📥 kanban-tui - 开源免费的终端任务管理器，支持自定义看板和数据可视化，助你高效管理个人和团队项目】]
-                    ( https://www.bilibili.com/video/BV1K23HzDEPp/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【📥 sqly - 命令行数据查询工具，使用 SQL 轻松处理 CSV、Excel、TSV 等文件，简化数据分析与自动化流程】]
+                    (https://www.bilibili.com/video/BV1Lv3xzyEMb/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
 
