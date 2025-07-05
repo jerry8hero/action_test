@@ -21,8 +21,8 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【📥 fnt - 字体管理器，一键更新字体库，精准搜索，告别字体选择困难症】]
-                    (https://www.bilibili.com/video/BV1Et3xzJEhx/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【📥 lnav -  终端日志分析利器，智能解析合并错误预警，JSON 美化，大幅提升 Web 服务器系统应用日志分析效率】]
+                    (https://www.bilibili.com/video/BV1zx3xzDE3c/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
 
