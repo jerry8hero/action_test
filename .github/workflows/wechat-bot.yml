@@ -21,8 +21,8 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【📥 nnn - 极致轻量的终端文件管理器，支持插件扩展、批量操作与快速导航】]
-                    (https://www.bilibili.com/video/BV1ex3kzRE5F/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【📥 Sou - 用 Go 编写的 Docker 镜像分析工具，能可视化 Docker 镜像的层级结构】]
+                    (https://www.bilibili.com/video/BV1NVGnzEEkJ/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
 
