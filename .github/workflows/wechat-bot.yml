@@ -21,8 +21,7 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【🗂️ superfile、Yazi、Ranger 等六款文件管理器全景指南，覆盖从新手到极客，找到最适合你的那一款】]
-                    (https://www.bilibili.com/video/BV1DGG4zGEir/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【📥 mcpm.sh - 多 AI 客户端必备！MCPM 帮你轻松管理 MCP 服务器配置，智能路由省资源】]
+                    (https://www.bilibili.com/video/BV1meGczwEXu/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
-
