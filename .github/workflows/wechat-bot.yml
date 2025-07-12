@@ -21,7 +21,7 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【📥 otti - 还在用手机完成双重身份验证？试试这款命令行下的 OTP 管理器，安全高效，Rust 开发】]
-                    (https://www.bilibili.com/video/BV1QsGczMEmn/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【📥 macmon - 专为 Apple Silicon 设计的性能监控工具，实时功耗、利用率、温度，支持 JSON 格式输出】]
+                    (https://www.bilibili.com/video/BV1GpGcz6EBi/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
