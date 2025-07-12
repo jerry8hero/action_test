@@ -21,7 +21,7 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【📥 mcpm.sh - 多 AI 客户端必备！MCPM 帮你轻松管理 MCP 服务器配置，智能路由省资源】]
-                    (https://www.bilibili.com/video/BV1meGczwEXu/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【📥 otti - 还在用手机完成双重身份验证？试试这款命令行下的 OTP 管理器，安全高效，Rust 开发】]
+                    (https://www.bilibili.com/video/BV1QsGczMEmn/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
