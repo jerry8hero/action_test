@@ -21,7 +21,7 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【📥 macmon - 专为 Apple Silicon 设计的性能监控工具，实时功耗、利用率、温度，支持 JSON 格式输出】]
-                    (https://www.bilibili.com/video/BV1GpGcz6EBi/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【📥 Nap - 专为程序员打造的终端代码片段管理工具，支持代码快速保存、整理项目代码、分享代码片段】]
+                    (https://www.bilibili.com/video/BV1jSGMzNE8z/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
