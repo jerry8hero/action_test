@@ -21,7 +21,7 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【📥 bed - 高效二进制编辑器，拥有 Vim 般丝滑键位，支持大文件和窗口分割】]
-                    (https://www.bilibili.com/video/BV1vQuyzZEbP/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【📥 sig - 这才是日志分析该有的样子！交互式 grep 工具，让命令行也能如此丝滑！】]
+                    (https://www.bilibili.com/video/BV1enuxzTEwP/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
