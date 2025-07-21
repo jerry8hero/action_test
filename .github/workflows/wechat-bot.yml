@@ -21,7 +21,7 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【📥 kibi - 用 Rust 实现的迷你文本编辑器，代码量少于 1024 行，支持UTF-8，跨平台运行，提供语法高亮和便捷快捷键】]
-                    ( https://www.bilibili.com/video/BV1t9ggzpEAK/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【📥 papis - 开源文献管理工具，自动抓取元数据，支持 BibTeX 导入导出，科研效率提升必备！】【📥 kibi - 用 Rust 实现的迷你文本编辑器，代码量少于 1024 行，支持UTF-8，跨平台运行，提供语法高亮和便捷快捷键】]
+                    (https://www.bilibili.com/video/BV1t9ggzpE4H/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
