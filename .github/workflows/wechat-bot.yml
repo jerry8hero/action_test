@@ -21,7 +21,7 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【📥 gfold - 多 Git 仓库管理不再是难题！gfold 让你快速掌握多仓库状态，提升开发效率】]
-                    (https://www.bilibili.com/video/BV1nwgEzcEPb/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【📥 fuzpad - 一款基于 FZF 的轻量级终端笔记工具，支持极速搜索、标签管理和 Git 版本控制】]
+                    (https://www.bilibili.com/video/BV1c1bfzZE7q/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
