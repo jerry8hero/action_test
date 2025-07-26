@@ -21,7 +21,7 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【📥 clipboard - 这可能是你一直在找的终端剪贴板！无限历史和多剪贴板，支持各种数据】]
-                    (https://www.bilibili.com/video/BV1cybfzbEns/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【📥 netop - Rust 编写！轻量级终端流量监控工具，自定义 BPF 规则，实时速率，Docker 支持！】]
+                    (https://www.bilibili.com/video/BV1xvbfzvEmv/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
