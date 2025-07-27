@@ -21,7 +21,7 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【📥 netop - Rust 编写！轻量级终端流量监控工具，自定义 BPF 规则，实时速率，Docker 支持！】]
-                    (https://www.bilibili.com/video/BV1xvbfzvEmv/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【📥 dolphie - 把数据库图表搬进终端！MySQL/MariaDB/ProxySQL 的一体化实时监控，具有独特的录制与回放功能】]
+                    (https://www.bilibili.com/video/BV1RZbfzUEU4/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
