@@ -21,7 +21,7 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【📥 rhit - 专为 Nginx 设计的日志分析神器，Rust 编写，1秒分析百万行 Nginx 日志！】]
-                    (https://www.bilibili.com/video/BV1DB8jzxEHi/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【📥 pysentation - 还在用 PPT 贴代码截图？试试 pysentation，直接在终端里把你的 Python 代码变成幻灯片演示】]
+                    ( https://www.bilibili.com/video/BV1Gz8XzaESG/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
