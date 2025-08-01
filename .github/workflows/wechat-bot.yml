@@ -21,7 +21,7 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【📥 taskwarrior-tui - 基于 Rust 的极速 Taskwarrior 终端界面，为你的任务管理带来图形化体验！】]
-                    ( https://www.bilibili.com/video/BV1gfhczDEU8/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【🧩 x ccal - 国人专属的命令行日历神器，把农历、黄历、放假安排装进终端】]
+                    ( https://www.bilibili.com/video/BV1cA8kzjEAv/?share_source=copy_web&vd_source=4e55721827c7e4297e854b22608b40dc)"
                 }
             }'
