@@ -21,7 +21,7 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【📥 Ranger - 类 Vim 操作的终端文件管理器，支持多标签和预览】]
-                    (https://www.bilibili.com/video/BV1uDh7zcEv5/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【📥 tegratop - 一款专为 NVIDIA Jetson 开发的终端性能监控工具，实时查看 GPU 和 CPU 状态】]
+                    (https://www.bilibili.com/video/BV183hJzvE1y/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
