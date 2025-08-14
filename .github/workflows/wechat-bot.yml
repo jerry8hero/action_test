@@ -21,7 +21,7 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【🧩 x docker 使用攻略：终端交互 + 图形界面，全面提升容器管理效率】]
-                    (https://www.bilibili.com/video/BV1CubhzUEBQ/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【📥 slides - 用 Markdown 和终端，重新定义你的技术演示体验】]
+                    ( https://www.bilibili.com/video/BV1EFbazyEZv/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
