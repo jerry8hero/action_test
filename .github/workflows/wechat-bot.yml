@@ -21,7 +21,7 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【📥 slides - 用 Markdown 和终端，重新定义你的技术演示体验】]
-                    ( https://www.bilibili.com/video/BV1EFbazyEZv/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【📥 omm - Go 实现的键盘驱动终端任务管理器，支持上下文管理、任务归档、自定义主题】]
+                    (https://www.bilibili.com/video/BV1fGbBzfEFh/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
