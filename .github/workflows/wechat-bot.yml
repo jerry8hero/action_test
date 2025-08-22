@@ -4,8 +4,8 @@ on:
   # push:
   #   branches:
   #     - main
-  # schedule:
-  #   - cron: '15 13 * * *'  # 每天 UTC 13:30，即北京时间 21:30
+  schedule:
+    - cron: '15 13 * * *'  # 每天 UTC 13:30，即北京时间 21:30
   workflow_dispatch:       # 手动触发也可以用
 
 jobs:
@@ -21,7 +21,7 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【🧩 x hua - 50k Star 古诗词库，命令行里居然也能看！】]
-                    (https://www.bilibili.com/video/BV1YfeczhEhj/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【📥 dns53 - 运维必备！用 dns53 给你的 AWS EC2 服务穿上“隐身衣”！】]
+                    (https://www.bilibili.com/video/BV14TYUzUE1G/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
