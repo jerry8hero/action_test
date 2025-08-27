@@ -21,7 +21,7 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【📥 httplab - 还在为调试 Webhook 或 API 回调烦恼？试试 HTTPLab，轻松捕获和伪造 HTTP 响应】]
-                    (https://www.bilibili.com/video/BV1MrYZzjE4W/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【🧩 一行命令，安全沙盒运行任意 CLI 工具 | x docker alpine snap】]
+                    (https://www.bilibili.com/video/BV1RuvNz5E7e/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
