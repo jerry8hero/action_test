@@ -21,7 +21,7 @@ jobs:
                 "msgtype": "text",
                 "text": {
                     "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【📥 tgt - 告别 GUI，在终端畅聊 Telegram！】]
-                    (https://www.bilibili.com/video/BV1wThXz7EZs/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                    \n1️⃣ 👉 [【📥 ttyplot - 化繁为简，命令行也能玩转实时数据可视化！】]
+                    (https://www.bilibili.com/video/BV1ANhXzUEoj/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
                 }
             }'
