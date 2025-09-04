@@ -1,0 +1,23 @@
+name: qywx
+
+on:
+# push:
+#   branches:
+#     - main
+    schedule:
+    - cron: '15 13 * * *'  # 每天 UTC 13:30，即北京时间 21:30
+    workflow_dispatch:       # 手动触发也可以用
+
+jobs:
+  qywx:
+    runs-on: ubuntu-latest
+    steps:
+      - name: main
+        env:
+          QYWX_WEBHOOK: ${{ secrets.QYWX_WEBHOOK }}
+        run: |
+            MESSAGE="@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
+            \n1️⃣ 👉 [【📥 tui-journal - 用 Rust 实现的 Vim 风格终端笔记工具，专注高效文字工作流，支持多种存储和跨平台操作】]
+            (https://www.bilibili.com/video/BV1ZQaFz8EjZ/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+            x qywx --cfg webhook='${{ secrets.QYWX_WEBHOOK }}'
+            x qywx send --text "$MESSAGE"
