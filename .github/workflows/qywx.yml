@@ -4,8 +4,8 @@ on:
   # push:
   #   branches:
   #     - main
-  # schedule:
-  #   - cron: '15 13 * * *'  # 每天 UTC 13:30，即北京时间 21:30
+  schedule:
+    - cron: '15 13 * * *'  # 每天 UTC 13:30，即北京时间 21:30
   workflow_dispatch:       # 手动触发也可以用
 jobs:
   send-message:
@@ -18,8 +18,8 @@ jobs:
           eval "$(curl https://get.x-cmd.com)"
 
           MESSAGE="@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                   1️⃣ 👉 [【🧩 x qywx - GitHub Actions 部署结果秒推企业微信! 告别等待，极速获取 CI/CD 反馈，实用教程。】]
-                  (https://www.bilibili.com/video/BV171arz1EEp/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                   1️⃣ 👉 [【💡一行命令，让 sudo 支持指纹解锁！】]
+                  (https://www.bilibili.com/video/BV12JaUz1E6U/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
 
           x qywx --cfg webhook='${{ secrets.QYWX_WEBHOOK }}'
           x qywx send --text "$MESSAGE"
