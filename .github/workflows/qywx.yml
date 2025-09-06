@@ -18,8 +18,8 @@ jobs:
           eval "$(curl https://get.x-cmd.com)"
 
           MESSAGE="@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                   1️⃣ 👉 [【💡一行命令，让 sudo 支持指纹解锁！】]
-                  (https://www.bilibili.com/video/BV12JaUz1E6U/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                   1️⃣ 👉 [【📥 tre - 告别老旧 tree，拥抱现代高效目录浏览！】]
+                  (https://www.bilibili.com/video/BV1k8atzEEQW/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
 
           x qywx --cfg webhook='${{ secrets.QYWX_WEBHOOK }}'
           x qywx send --text "$MESSAGE"
