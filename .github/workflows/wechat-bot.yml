@@ -1,27 +1,25 @@
-name: WeChat Bot Notification
+name: qywx
 
 on:
   # push:
   #   branches:
   #     - main
-  # schedule:
-  #   - cron: '15 13 * * *'  # 每天 UTC 13:30，即北京时间 21:30
+  schedule:
+    - cron: '15 13 * * *'  # 每天 UTC 13:30，即北京时间 21:30
   workflow_dispatch:       # 手动触发也可以用
-
 jobs:
   send-message:
     runs-on: ubuntu-latest
     steps:
       - name: Send WeChat Message
+        env:
+          QYWX_WEBHOOK: ${{ secrets.QYWX_WEBHOOK }}
         run: |
-          curl 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=eb2eefa5-081f-4d51-a761-9aa057ad024a' \
-            -H 'Content-Type: application/json' \
-            -d '
-            {
-                "msgtype": "text",
-                "text": {
-                    "content": "@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                    \n1️⃣ 👉 [【🧩 x qywx - GitHub Actions 部署结果秒推企业微信! 告别等待，极速获取 CI/CD 反馈，实用教程。】]
-                    (https://www.bilibili.com/video/BV171arz1EEp/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
-                }
-            }'
+          eval "$(curl https://get.x-cmd.com)"
+
+          MESSAGE="@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
+                   1️⃣ 👉 [【📥 tre - 告别老旧 tree，拥抱现代高效目录浏览！】]
+                  (https://www.bilibili.com/video/BV1k8atzEEQW/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+
+          x qywx --cfg webhook='${{ secrets.QYWX_WEBHOOK }}'
+          x qywx send --text "$MESSAGE"
