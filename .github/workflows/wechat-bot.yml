@@ -18,8 +18,8 @@ jobs:
           eval "$(curl https://get.x-cmd.com)"
 
           MESSAGE="@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                   1️⃣ 👉 [【📥 Broot - 交互式目录树文件管理器，拥有极速导航、智能搜索、可视化操作等特性，告别低效文件管理】]
-                  (https://www.bilibili.com/video/BV1GJY7zuEfr/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                   1️⃣ 👉 [【💡备份安全必备！哈希就是文件的 DNA】]
+                  (https://www.bilibili.com/video/BV1CraozYETF/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
 
           x qywx --cfg webhook='${{ secrets.QYWX_WEBHOOK }}'
           x qywx send --text "$MESSAGE"
