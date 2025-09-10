@@ -18,8 +18,8 @@ jobs:
           eval "$(curl https://get.x-cmd.com)"
 
           MESSAGE="@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                   1️⃣ 👉 [【💡备份安全必备！哈希就是文件的 DNA】]
-                  (https://www.bilibili.com/video/BV1CraozYETF/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                   1️⃣ 👉 [【📥 eddy - 程序员日常加密文件怎么选？带你快速体验高效命令行加密流程】]
+                  (https://www.bilibili.com/video/BV1VSYwzYE94/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
 
           x qywx --cfg webhook='${{ secrets.QYWX_WEBHOOK }}'
           x qywx send --text "$MESSAGE"
