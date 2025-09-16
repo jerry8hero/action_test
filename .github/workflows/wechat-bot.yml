@@ -18,8 +18,8 @@ jobs:
           eval "$(curl https://get.x-cmd.com)"
 
           MESSAGE="@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                   1️⃣ 👉 [【📥 pgtree - Linux/Unix 进程树可视化利器，进程关系一目了然，运维调试效率倍增，支持进程管理和自定义显示】]
-                  (https://www.bilibili.com/video/BV1DBpNz3Ev4/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                   1️⃣ 👉 [【💡 颜色选不准？命令秒查颜色编码，终端调色不再难】]
+                  (https://www.bilibili.com/video/BV18EpBzPEzD/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
 
           x qywx --cfg webhook='${{ secrets.QYWX_WEBHOOK }}'
           x qywx send --text "$MESSAGE"
