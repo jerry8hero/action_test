@@ -18,8 +18,8 @@ jobs:
           eval "$(curl https://get.x-cmd.com)"
 
           MESSAGE="@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                   1️⃣ 👉 [【📥 flamelens - 终端交互式火焰图，性能分析利器，支持多格式和实时Python分析，快速定位性能瓶颈！】]
-                  (https://www.bilibili.com/video/BV1nvpizyEKW/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                   1️⃣ 👉 [【💡 Arch Linux 用户必看！paru vs yay，谁才是你的最佳 AUR 助手？】]
+                  (https://www.bilibili.com/video/BV1qKWGzgEja/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
 
           x qywx --cfg webhook='${{ secrets.QYWX_WEBHOOK }}'
           x qywx send --text "$MESSAGE"
