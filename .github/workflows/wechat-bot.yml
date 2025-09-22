@@ -18,8 +18,8 @@ jobs:
           eval "$(curl https://get.x-cmd.com)"
 
           MESSAGE="@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                   1️⃣ 👉 [【💡 ChatGPT 助你操控终端，用 AI 搞定编程和命令行操作】】]
-                  (https://www.bilibili.com/video/BV1QvW3zhEiD/?share_source=copy_web&vd_source=41bfad8ee799621c77ba4eeb24215145)"
+                   1️⃣ 👉 [【📥 planor - 开源免费的云服务管理 TUI 工具，支持AWS、Vultr、Heroku、Render、Fleek】]
+                  (https://www.bilibili.com/video/BV1vVJdzSErz/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
 
           x qywx --cfg webhook='${{ secrets.QYWX_WEBHOOK }}'
           x qywx send --text "$MESSAGE"
