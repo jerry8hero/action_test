@@ -18,8 +18,8 @@ jobs:
           eval "$(curl https://get.x-cmd.com)"
 
           MESSAGE="@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                   1️⃣ 👉 [【💡 超强台风桦加沙来啦！还在网页查天气？命令行秒出预报！】]
-                  (https://www.bilibili.com/video/BV1cfJrzXEKx/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
+                   1️⃣ 👉 [【📥 dug - 全球 DNS 传播检查器，支持跨平台使用，帮助您快速了解域名在全球各地的生效情况】]
+                  (https://www.bilibili.com/video/BV1GvJrzuEb2/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
 
           x qywx --cfg webhook='${{ secrets.QYWX_WEBHOOK }}'
           x qywx send --text "$MESSAGE"
