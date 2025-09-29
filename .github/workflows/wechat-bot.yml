@@ -18,8 +18,8 @@ jobs:
           eval "$(curl https://get.x-cmd.com)"
 
           MESSAGE="@所有人 晚上好🌙，记得到哔哩哔哩平台进行点赞和互动哟～ 
-                   1️⃣ 👉 [【💡 装了软件忘了怎么卸？x uninstall 统一卸载，告别多包管理器混乱！】]
-                  (https://www.bilibili.com/video/BV11BnXzfEjn/?share_source=copy_web&vd_source=4e55721827c7e4297e854b22608b40dc)"
+                   1️⃣ 👉 [【📥 asn — 综合 ASN 查询、BGP 路由追踪、RPKI 验证与 IP 声誉分析的终端工具，助力网络运维人员进行网络归属地分析和 BGP 路由追踪】]
+                  (https://www.bilibili.com/video/BV1hgndz1EmH/?share_source=copy_web&vd_source=1c09a7c3bd9abce39b9d4a556c1e4410)"
 
           x qywx --cfg webhook='${{ secrets.QYWX_WEBHOOK }}'
           x qywx send --text "$MESSAGE"
